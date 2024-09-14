@@ -2,4 +2,4 @@
 
 Hi, I'm Kaia!
 
-I am currently in my third year of a masters degree in computer science at Norges Teknisk-Naturvitenskapelige Universitet (NTNU) in Trondheim, Norway. As of now, my main interests in programming is machine learning, data analysis and game- and software development, and my goal is to be able to do smaller coding projects alongside my studying. My main focus is to learn new technologies and build interesting projects!
+I am a third-year computer science student at Norges Teknisk-Naturvitenskapelige Universitet (NTNU) in Trondheim, Norway, specializing in visual computing. My motivation lies in problem-solving and being able to develop creative, innovative solutions. Among my main interests are machine learning, data analysis and game- and software development. Alongside my studying, I wish to work on smaller coding projects to learn new technologies and gain more experience in developing. 
